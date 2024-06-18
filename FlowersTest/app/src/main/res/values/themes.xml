@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FlowersTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/suave_red</item>
+        <item name="colorPrimaryDark">@color/suave_red</item>
+        <item name="colorAccent">@color/suave_red</item>
+    </style>
+
+    <style name="Theme.FlowersTest" parent="Base.Theme.FlowersTest" />
+</resources>
